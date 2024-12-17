@@ -2,8 +2,12 @@
 # About Me
 I’m currently working on Mobile Application Development
 I’m currently learning Kotlin
-# Android Icon
-![Android Icon](https://upload.wikimedia.org/wikipedia/commons/6/6f/Android_robot_2014.png)
+</a>&nbsp;
+  <a href="https://www.android.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" alt="Android" width="10" height="10"/>
+  </a>&nbsp;
+
+
 
 
 # Connect with Me
