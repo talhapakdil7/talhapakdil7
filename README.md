@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
 <!--
 **talhapakdil7/talhapakdil7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
