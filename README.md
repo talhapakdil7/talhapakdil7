@@ -11,8 +11,7 @@
 
 
 # Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 
+- https://www.linkedin.com/in/talha-pakdil-157191250/
 ### Languages and Tools:
 <div align="center">
   
