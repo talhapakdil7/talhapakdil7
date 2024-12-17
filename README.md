@@ -11,7 +11,7 @@
 
 
 # Connect with Me
-- https://www.linkedin.com/in/talha-pakdil-157191250/
+- 📧 Email: [talhapakdil7@gmail.com]
 ### Languages and Tools:
 <div align="center">
   
