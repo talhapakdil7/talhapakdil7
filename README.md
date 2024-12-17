@@ -12,7 +12,6 @@
 
 # Connect with Me
 - Email: [talhapakdil7@gmail.com]
-- 🔗 [https://www.linkedin.com/in/talha-pakdil-157191250/) ![LinkedIn Icon](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png)
 ### Languages and Tools:
 <div align="center">
   
