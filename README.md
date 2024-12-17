@@ -1,3 +1,14 @@
+
+# About Me
+I’m currently working on Mobile Application Development
+I’m currently learning Kotlin
+# Android Icon
+![Android Icon](https://upload.wikimedia.org/wikipedia/commons/6/6f/Android_robot_2014.png)
+
+
+# Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 
 ### Languages and Tools:
 <div align="center">
   
