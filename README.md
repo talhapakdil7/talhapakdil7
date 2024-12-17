@@ -1,5 +1,5 @@
 
-# About Me
+## About Me
 * Mobile Application Development
 * I’m currently learning Kotlin
 </a>&nbsp;
@@ -10,7 +10,7 @@
 
 
 
-# Connect with Me
+## Connect with Me
 - Email: talhapakdil7@gmail.com
 ### Languages and Tools:
 <div align="center">
