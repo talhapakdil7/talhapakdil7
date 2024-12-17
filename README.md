@@ -1,10 +1,10 @@
 
 # About Me
-* I’m currently working on Mobile Application Development
+* Mobile Application Development
 * I’m currently learning Kotlin
 </a>&nbsp;
   <a href="https://www.android.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" alt="Android" width="13" height="13"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" alt="Android" width="15" height="15"/>
   </a>&nbsp;
 
 
