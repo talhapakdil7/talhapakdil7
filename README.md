@@ -1,7 +1,6 @@
 
 ## About Me
-* Mobile Application Development
-* I’m currently learning Kotlin
+Computer Engineer student
 </a>&nbsp;
   <a href="https://www.android.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" alt="Android" width="18" height="18"/>
