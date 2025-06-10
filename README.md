@@ -55,9 +55,7 @@ Computer Engineer student
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="35" height="35"/>
   </a>&nbsp;
-  <a href="https://github.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="35" height="35"/>
-  </a>&nbsp;
+
 
 </div>
 
