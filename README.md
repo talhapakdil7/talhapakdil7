@@ -1,6 +1,6 @@
 
 ## About Me
-Computer Engineer student
+Computer Engineer 
 
 ## Connect with Me
 - Email: talhapakdil7@gmail.com
