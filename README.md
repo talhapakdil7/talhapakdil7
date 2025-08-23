@@ -29,6 +29,10 @@ Computer Engineer student
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="35" height="35"/>
   </a>&nbsp;
+  <a href="https://getbootstrap.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="35" height="35"/>
+</a>&nbsp;
+
 
   <!-- Databases -->
   <a href="https://learn.microsoft.com/en-us/sql/" target="_blank">
