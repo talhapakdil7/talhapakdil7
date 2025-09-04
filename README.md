@@ -3,7 +3,7 @@ Computer Engineer
 
 ## Connect with Me
 - Email: talhapakdil7@gmail.com
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talhapakdil7)  
+
 ### Languages and Tools:
 <div align="center">
   
