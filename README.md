@@ -62,6 +62,5 @@ Computer Engineer
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="38" height="38"/>
   </a>&nbsp;
-![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=talhapakdil7&show_icons=true&theme=radical)
 
 </div>
