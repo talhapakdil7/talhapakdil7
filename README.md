@@ -58,9 +58,10 @@ Computer Engineer
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="35" height="35"/>
   </a>&nbsp;
-  <a href="https://developer.apple.com/ios/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" title="iOS" alt="iOS" width="35" height="35"/>
+  <a href="https://developer.apple.com/swift/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="35" height="35"/>
   </a>&nbsp;
+
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="35" height="35"/>
   </a>&nbsp;
