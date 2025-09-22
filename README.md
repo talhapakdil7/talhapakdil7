@@ -33,10 +33,12 @@ Computer Engineer
   <a href="https://learn.microsoft.com/en-us/sql/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MS SQL Server" alt="MS SQL Server" width="38" height="38"/>
   </a>&nbsp;
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" title="MySQL" alt="MySQL" width="38" height="38"/>
-</a>&nbsp;
-
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" title="MySQL" alt="MySQL" width="38" height="38"/>
+  </a>&nbsp;
+  <a href="https://www.sqlite.org/index.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="38" height="38"/>
+  </a>&nbsp;
 
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
