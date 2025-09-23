@@ -65,5 +65,8 @@ Computer Engineer
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="38" height="38"/>
   </a>&nbsp;
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" title="Firebase" alt="Firebase" width="38" height="38"/>
+  </a>&nbsp;
 
 </div>
