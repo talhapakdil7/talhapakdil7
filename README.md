@@ -3,6 +3,7 @@ Computer Engineer
 
 ## Connect with Me
 - Email: talhapakdil7@gmail.com
+- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=talhapakdil7&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> </p>
 
 ### Languages and Tools:
 <div align="center">
