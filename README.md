@@ -5,7 +5,7 @@ Computer Engineer
 - Email: talhapakdil7@gmail.com
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=talhapakdil7&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=talhapakdil7&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 
