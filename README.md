@@ -4,30 +4,6 @@ Computer Engineering student and iOS Developer focused on building mobile applic
 - Email: talhapakdil7@gmail.com
 
 <p align="center">
-<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
-
-<defs>
-<linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
-<stop offset="0%" style="stop-color:#0f2027;stop-opacity:1" />
-<stop offset="50%" style="stop-color:#203a43;stop-opacity:1" />
-<stop offset="100%" style="stop-color:#2c5364;stop-opacity:1" />
-</linearGradient>
-</defs>
-
-<rect width="800" height="200" fill="url(#grad1)" rx="20"/>
-
-<text x="400" y="90" font-size="40" text-anchor="middle" fill="white" font-family="Arial" font-weight="bold">
-🍎 Talha Pakdil
-</text>
-
-<text x="400" y="130" font-size="22" text-anchor="middle" fill="#d1e8ff" font-family="Arial">
-iOS Developer • Swift • SwiftUI
-</text>
-
-<text x="400" y="165" font-size="16" text-anchor="middle" fill="#9ecfff" font-family="Arial">
-Building Modern Mobile Applications
-</text>
-
-</svg>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=%EF%A3%BF%20Talha%20Pakdil&fontSize=42&fontColor=ffffff&color=0:0f0f0f,50:1c1c1e,100:2c2c2e&stroke=ffffff&strokeWidth=1&desc=iOS%20Developer%20%E2%80%A2%20Swift%20%E2%80%A2%20SwiftUI&descAlignY=68" />
 </p>
 
