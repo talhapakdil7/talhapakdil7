@@ -3,7 +3,9 @@ Computer Engineering student and iOS Developer focused on building mobile applic
 
 - Email: talhapakdil7@gmail.com
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Talha%20Pakdil&fontSize=40&fontColor=ffffff"/>
+</p>
   
  
 
