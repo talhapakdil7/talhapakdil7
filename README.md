@@ -9,7 +9,7 @@ Computer Engineering student and iOS Developer focused on building mobile applic
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=talhapakdil&show_icons=true&theme=tokyonight" height="180"/>
 </p>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1E90FF&height=200&section=header&text=Talha%20Pakdil&fontSize=40&fontColor=ffffff"/>
 
 ### Languages and Tools:
 <div align="center">
