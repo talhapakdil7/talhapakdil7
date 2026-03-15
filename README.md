@@ -6,3 +6,6 @@ Computer Engineering student and iOS Developer focused on building mobile applic
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0b0b0b,50:1c1c1e,100:2f2f31&text=%EF%A3%BF%20Talha%20Pakdil&fontSize=44&fontColor=ffffff&desc=iOS%20Developer%20%E2%80%A2%20Swift%20%E2%80%A2%20SwiftUI%20%E2%80%A2%20Building%20Apple-Style%20Apps&descAlignY=66&animation=fadeIn" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=24&duration=2800&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=iOS+Developer;Swift+%26+SwiftUI;Building+clean+and+modern+apps;Computer+Engineering+Student" />
+</p>
