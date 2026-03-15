@@ -3,11 +3,14 @@ Computer Engineering student and iOS Developer focused on building mobile applic
 
 - Email: talhapakdil7@gmail.com
 
-
-### GitHub Stats
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Talha+Pakdil;iOS+Developer;Swift+%7C+SwiftUI;Mobile+App+Builder"/>
+</p>
+
+### GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=talhapakdil&theme=tokyonight&row=1&column=6"/>
 </p>
   
   <!-- Programming Languages -->
