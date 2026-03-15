@@ -7,12 +7,8 @@ Computer Engineering student and iOS Developer focused on building mobile applic
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talhapakdil&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Talha+Pakdil;iOS+Developer;Swift+%7C+SwiftUI;Mobile+App+Builder"/>
 </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1E90FF&height=200&section=header&text=Talha%20Pakdil&fontSize=40&fontColor=ffffff"/>
-
-### Languages and Tools:
-<div align="center">
   
   <!-- Programming Languages -->
   
