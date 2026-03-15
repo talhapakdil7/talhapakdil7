@@ -1,8 +1,16 @@
 ## About Me
-Computer Engineer 
+Computer Engineering student and iOS Developer focused on building mobile applications using Swift and SwiftUI. I develop apps from scratch, including UI design, app logic, and API integration. I prepare applications for release, including testing, optimization, and App Store submission. I focus on writing clean, maintainable code and creating user-friendly mobile experiences. I build real-world iOS projects to strengthen my mobile development skills.
 
-## Connect with Me
 - Email: talhapakdil7@gmail.com
+
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=talhapakdil&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhapakdil&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
 
 ### Languages and Tools:
 <div align="center">
