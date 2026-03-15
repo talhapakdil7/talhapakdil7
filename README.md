@@ -4,6 +4,5 @@ Computer Engineering student and iOS Developer focused on building mobile applic
 - Email: talhapakdil7@gmail.com
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=%EF%A3%BF%20Talha%20Pakdil&fontSize=42&fontColor=ffffff&color=0:0f0f0f,50:1c1c1e,100:2c2c2e&stroke=ffffff&strokeWidth=1&desc=iOS%20Developer%20%E2%80%A2%20Swift%20%E2%80%A2%20SwiftUI&descAlignY=68" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0b0b0b,50:1c1c1e,100:2f2f31&text=%EF%A3%BF%20Talha%20Pakdil&fontSize=44&fontColor=ffffff&desc=iOS%20Developer%20%E2%80%A2%20Swift%20%E2%80%A2%20SwiftUI%20%E2%80%A2%20Building%20Apple-Style%20Apps&descAlignY=66&animation=fadeIn" />
 </p>
-
