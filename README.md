@@ -10,8 +10,8 @@ Computer Engineering student and iOS Developer focused on building mobile applic
 
 
 
-## 📊 GitHub Analysis
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talhapakdil7&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talhapakdil7&theme=default" />
 </p>
