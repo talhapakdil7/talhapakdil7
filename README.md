@@ -13,5 +13,6 @@ Computer Engineering student and iOS Developer focused on building mobile applic
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talhapakdil7&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=talhapakdil7&show_icons=true&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhapakdil7&layout=compact&theme=default&hide_border=true" height="160"/>
 </p>
