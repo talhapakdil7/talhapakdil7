@@ -8,9 +8,3 @@ Computer Engineering student and iOS Developer focused on building mobile applic
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0b0b0b,50:1c1c1e,100:2f2f31&text=%EF%A3%BF%20Talha%20Pakdil&fontSize=44&fontColor=ffffff&desc=Software%20Engineer%20%E2%80%A2%20iOS%20Developer&descAlignY=66&animation=fadeIn" />
 </p>
 
-
-## 🧠 Most Used Languages
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=talhapakdil7&theme=default" />
-</p>
