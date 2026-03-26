@@ -9,7 +9,8 @@ Computer Engineering student and iOS Developer focused on building mobile applic
 </p>
 
 
+## 🧠 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhapakdil7&layout=compact&hide_border=true&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=talhapakdil7&theme=default" />
 </p>
