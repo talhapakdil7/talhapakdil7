@@ -14,7 +14,7 @@ Computer Engineering student and iOS Developer focused on building mobile applic
 
 ## GitHub Stats
 
-<p align="center">
-  <img width="260" alt="GitHub stats" src="https://github-readme-stats-fast.vercel.app/api?username=talhapakdil7&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&card_width=300" />
+<p>
+  <img width="350" alt="GitHub stats" src="https://github-readme-stats-fast.vercel.app/api?username=talhapakdil7&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&card_width=300" />
 </p>
 
