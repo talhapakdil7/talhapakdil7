@@ -14,7 +14,9 @@ Computer Engineering student and iOS Developer focused on building mobile applic
 
 ## GitHub Stats
 
-<p>
-  <img width="420" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=talhapakdil7&theme=tokyonight" />
-  <img width="420" alt="Top languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=talhapakdil7&theme=tokyonight" />
+<p align="center">
+  <img width="260" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=talhapakdil7&theme=tokyonight" />
+  &nbsp;
+  <img width="260" alt="Most used languages (by commit)" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=talhapakdil7&theme=tokyonight" />
 </p>
+
