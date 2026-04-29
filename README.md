@@ -1,4 +1,4 @@
-[![Portfolio banner](banner/Screenshot%202026-03-27%20at%2003.28.06.png)](https://talha-portfolioo.vercel.app/)
+[![Portfolio banner](banner/Screenshot%202026-03-27%20at%2003.28.06.png)]()
 
 # About Me
 Computer Engineering student and iOS Developer focused on building mobile applications using Swift and SwiftUI. I develop apps from scratch, including UI design, app logic, and API integration. I prepare applications for release, including testing, optimization, and App Store submission. I focus on writing clean, maintainable code and creating user-friendly mobile experiences. I build real-world iOS projects to strengthen my mobile development skills.
